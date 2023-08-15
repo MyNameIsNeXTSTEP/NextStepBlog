@@ -2,7 +2,7 @@
 
 Here's the example from [MkDocs Material documentation](https://squidfunk.github.io/mkdocs-material/reference/diagrams/#using-flowcharts): 
 
-```mermaid
+``` mermaid
 graph LR
   A[Start] --> B{Error?};
   B -->|Yes| C[Hmm...];
@@ -10,5 +10,5 @@ graph LR
   D --> B;
   B ---->|No| E[Yay!];
 ```
-
-
+**Вот так вот всё**
+*происодит здесь*
