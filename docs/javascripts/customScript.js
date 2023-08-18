@@ -1,19 +1,16 @@
 window.onload = () => {
-    $('.md-footer').remove();
-    $('.md-option').on('click', function() {
-        const bodyTheme = $('body').attr('data-md-color-scheme');
-        const headerIcon = $('.md-header img');
-        // Because the triggering starts before then changes of theme
-        if (bodyTheme === 'slate') {
-            headerIcon.css({
-                border: 'solid',
-                borderColor: 'white',
-            });
-        } else if (bodyTheme === 'default') {
-            headerIcon.css({
-                border: 'solid',
-                borderColor: 'black',
-            });
-        }
-   });
+    $('.md-copyright').remove();
+
+    $(document).ready(function() {
+        $('footer').append(
+            $(document.createElement('button')).prop({
+                type: 'button',
+                innerHTML: 'SOCIALS',
+                class: 'btn-socials'
+            })
+        );
+    });
+    $("body").on("click", ".btn-socials", function() {
+        window.open('https://dom.ru', '_blank');
+    });
 };
