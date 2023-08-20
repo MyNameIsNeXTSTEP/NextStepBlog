@@ -1,7 +1,8 @@
 site_name: Next Step blog
 
 theme:
-    logo: assets/square.png
+    logo: assets/favicon.png
+    favicon: assets/favicon.png
     name: 'material'
     font:
       text: Cambria", "Georgia", "Times New Roman", "Serif
@@ -54,6 +55,8 @@ plugins:
   - search
   - roamlinks 
 
+extra_css:
+  - stylesheets/extra.css
 
 extra_javascript:
   - javascripts/mathjax.js

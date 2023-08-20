@@ -1,6 +1,6 @@
 window.onload = () => {
+    // default footer rewrite
     $('.md-copyright').remove();
-
     $(document).ready(function() {
         $('footer').append(
             $(document.createElement('button')).prop({
@@ -13,4 +13,6 @@ window.onload = () => {
     $("body").on("click", ".btn-socials", function() {
         window.open('https://dom.ru', '_blank');
     });
+    // NEWS tab coloring
+    $( "a:contains('NEWS')")[0].style.color = "tomato";
 };
