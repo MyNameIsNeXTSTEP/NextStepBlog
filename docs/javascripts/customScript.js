@@ -6,7 +6,10 @@ window.onload = () => {
     $( "a:contains('NEWS')")[0].style.color = "tomato";
 
     // SOCIALS
-    const $div = $('<div/>', { class: 'socials' });
-    $('.md-content__inner').before($div);
-    $('.socials').load("/temp.html");
+    const $socialsRow = $('<div/>', { class: 'socials' });
+    $('.md-content__inner').before($socialsRow);
+    $('.socials').load("/socials.html");
+
+    // TAGS
+    $('a.md-nav__link').filter(':contains("Tags")').remove()
 };
