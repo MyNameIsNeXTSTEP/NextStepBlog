@@ -1,6 +1,6 @@
 # **Books**
 ### Software engineering
-1. [Object Thinking | David West]()
+1. [Object Thinking | David West]() [reading now]
 2. [Managing the testing process | Rex Black]()
 3. [Release It! | Michael T. Nygard]()
 4. [Software requirements (3d edition) | Karl Wiegers & Joy Beatty]()

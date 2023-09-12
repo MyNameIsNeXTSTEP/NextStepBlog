@@ -11,6 +11,7 @@ Using MkDocs based on [this template](https://github.com/jobindjohn/obsidian-pub
 - Lead and develop own projects on [GitHub](https://github.com/MyNameIsNeXTSTEP). Sometimes ask and answer questions on [StackOverflow](https://stackoverflow.com/users/19100691/gadzhiev-islam).
 - Do research in software engineering with [Yegor Bugayenko](https://www.yegor256.com/).  
 The topic is *"Quality of bug reports"*.
+- Taking a step into <u>[MIT open-courseware](https://ocw.mit.edu/)</u>
 - Learning and growing as a NodeJS web-developer  
 Interested in studting modern technologies, such as:  
 [Rust](https://rust-lang.com), [EO](https://eolang.org), AI, distributed systems, robotics
