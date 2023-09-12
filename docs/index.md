@@ -1,4 +1,4 @@
-# **Home page**
+# **HOME PAGE**
 ## Objectives
 In this blog i pursue such goals as growth of the local and global software engineering community around the source of knowledge, self growth as a specialist, documented usefull thoughts, researches and articles about software endineering, robotics, management, work, businesses…
 
