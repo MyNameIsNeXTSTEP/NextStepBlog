@@ -8,7 +8,7 @@ window.onload = () => {
     // SOCIALS
     const $socialsRow = $('<div/>', { class: 'socials' });
     $('.md-content__inner').before($socialsRow);
-    $('.socials').load("/socials.html");
+    $('.socials').load("/stylesheets/socials.html");
 
     // TAGS
     $('a.md-nav__link').filter(':contains("Tags")').remove()

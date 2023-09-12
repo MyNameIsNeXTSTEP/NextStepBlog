@@ -56,6 +56,8 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/tags.css
+  - stylesheets/socials.html
 
 extra_javascript:
   - javascripts/mathjax.js

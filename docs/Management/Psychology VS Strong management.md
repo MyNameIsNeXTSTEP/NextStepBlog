@@ -1,7 +1,7 @@
-<link href="/tags.css" rel="stylesheet" type="text/css"/>
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
-        <a href="/tags#Management">Management</a>
+        <a href="/NextStepBlog/tags#Management">Management</a>
     </div>
 </div>
 *21.08.2023* | *9-11 min. reading*
