@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <style>
+    .container {
+        width: fit-content;
+        background-color: #000;
+        padding: 5px;
+        border-radius: 15px;
+    }
     .socials {
         display: flex;
         flex-direction: row;
+        justify-content: center;
+        width: auto;
+
     }
     .social-item {
         margin-right: 10px;
         cursor: pointer;
-        font-size: 15px;
+        font-size: 12px;
         padding: 5px;
         border-radius: 10px;
         color: white;
@@ -28,14 +37,16 @@
     }
 </style>
 <body>
-    <button class='social-item' id="TG" href="">
-        <a target="_blank" href="https://t.me/NEXTSTEP4x4">Telegram<a>
-    </button>
-    <button class='social-item' id="SO">
-        <a target="_blank" href="https://stackoverflow.com/users/19100691/gadzhiev-islam">Stackoverflow<a>
-    </button>
-    <button class='social-item' id="GH">
-        <a target="_blank" href="https://github.com/MyNameIsNeXTSTEP">GitHub<a>
-    </button>
+    <div class="container">
+        <button class='social-item' id="TG" href="">
+            <a target="_blank" href="https://t.me/NEXTSTEP4x4">Telegram<a>
+        </button>
+        <button class='social-item' id="SO">
+            <a target="_blank" href="https://stackoverflow.com/users/19100691/gadzhiev-islam">Stackoverflow<a>
+        </button>
+        <button class='social-item' id="GH">
+            <a target="_blank" href="https://github.com/MyNameIsNeXTSTEP">GitHub<a>
+        </button>
+    </div>
 </body> 
 </html>
