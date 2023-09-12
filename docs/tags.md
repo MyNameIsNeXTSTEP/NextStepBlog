@@ -1,5 +1,5 @@
 # Tags
-<link href="/tags.css" rel="stylesheet" type="text/css"/>
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
         <a href='#Management'>Management</a>
