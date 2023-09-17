@@ -63,6 +63,7 @@ plugins:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/tags.css
+  - stylesheets/home-page.css
 
 extra_javascript:
   - javascripts/mathjax.js

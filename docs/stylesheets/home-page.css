@@ -1,0 +1,37 @@
+.drop-down-menu {
+    cursor: pointer;
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+    border: 2px solid currentColor;
+    border-radius: 15px;
+    width: fit-content;
+}
+
+.drop-down-list {
+    list-style: none;
+    width: fit-content;
+    margin-left: 0px !important;
+    user-select: none !important;
+    padding: 8px;
+}
+
+.drop-down-items {
+    list-style: none;
+    margin-left: 0px;
+}
+
+.dd-closed {
+    transform: rotate(180deg); 
+}
+
+.ddi-closed {
+    display: none !important;
+}
+
+.ddi-open {
+    display: block !important;
+}
+
+.upArrowIcon {
+    margin-left: 10px;
+}

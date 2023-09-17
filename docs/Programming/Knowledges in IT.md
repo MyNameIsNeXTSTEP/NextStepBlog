@@ -1,4 +1,10 @@
 # **Knowledges in IT**
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href="/tags#Self-education">Self-education</a>
+    </div>
+</div>
 *24.08.2023* | *5-6 min. reading*
 
 ## Introduction
