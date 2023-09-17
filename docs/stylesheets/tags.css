@@ -14,7 +14,7 @@
     background-color: black;
 }
 .tag > a {
-    color: white;
+    color: white !important;
     text-decoration: none;
     white-space: nowrap;
 }
