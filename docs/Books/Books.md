@@ -1,10 +1,12 @@
 # **Books**
 ### Software engineering
-1. [Object Thinking | David West]()
-2. [Managing the testing process | Rex Black]()
-3. [Release It! | Michael T. Nygard]()
-4. [Software requirements (3d edition) | Karl Wiegers & Joy Beatty]()
-5. [Веб-компоненты в действии | Бен Фарелл]()
+1. [Object Thinking | David West]() [reading now]
+2. [Clean Architecture | Robert Martin]() [reading now]
+3. [Clean Code | Robert Martin]()
+4. [Managing the testing process | Rex Black]()
+5. [Release It! | Michael T. Nygard]()
+6. [Software requirements (3d edition) | Karl Wiegers & Joy Beatty]()
+7. [Веб-компоненты в действии | Бен Фарелл]()
 
 ### Management
 1. [PMP Exam Prep | Rita Mulcahy (10th edition)]()

@@ -7,10 +7,11 @@ window.onload = () => {
     $( "a:contains('NEWS')")[0].style.color = "tomato";
 
     // SOCIALS
-    const $socialsRow = $('<div/>', { class: 'socials' });
-    $('.md-content__inner').before($socialsRow);
-    $('.socials').load("/NextStepBlog/stylesheets/socials.html");
-
+    // if ($(window).width() < 960) {
+        // const $socialsRow = $('<div/>', { class: 'socials' });
+        // $('.md-sidebar--secondary').find('.md-sidebar__inner').after($socialsRow);
+        // $('.socials').load("/stylesheets/socials.html");
+    // }
     // TAGS
     $('a.md-nav__link').filter(':contains("Tags")').remove()
 };

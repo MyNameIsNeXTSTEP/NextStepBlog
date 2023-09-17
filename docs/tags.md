@@ -1,4 +1,4 @@
-# Tags
+# **Tags**
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
