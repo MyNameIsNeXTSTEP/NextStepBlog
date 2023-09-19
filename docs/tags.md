@@ -11,7 +11,7 @@
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
-        <a href='/tags/#Self-education'>Self-education</a>
+        <a href='/tags/#Education'>Education</a>
     </div>
 </div>
 [Knowledges in IT](/Programming/Knowledges in IT/) - *24.08.2023 | 5-6 min. reading*
