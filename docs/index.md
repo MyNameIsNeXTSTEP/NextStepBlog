@@ -6,29 +6,27 @@ In this blog i pursue such goals as growth of the local and global software engi
 <ul class="drop-down-menu">
    <li class="drop-down-list">
     What do i work on now
+        <ul class="drop-down-items ddi-closed">
+            <li>Currently employeed as a support fullstack developer at <a href="https://r1.team" target="_blank">R1.team</a></li>
+            <li>Evolving current blog and surrounding enviroment. See my [Telegram] and [other stuff]</li>
+            <li>Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a>.
+                Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
+            </li>
+            <li>Do research in software engineering with <a href="https://www.yegor256.com" target="_blank">Yegor Bugayenko</a>.
+                The topic is "Quality of bug reports"
+            </li>
+            <li>
+                Started as mentor for web developers in <u>Projects Labs</u>. To get more info contact me in direct [Telegram]
+            </li>
+            <li>
+                Taking a step into <a href="https://ocw.mit.edu/" target="_blank">MIT open-courseware</a>
+            </li>
+        </ul>
+    </li>
     <img
         class="upArrowIcon dd-closed"
         src="/assets/upArrow.png"
-        width="20px"
-        height="20px"
-        style='vertical-align: middle'
     />
-      <ul class="drop-down-items ddi-closed">
-         <li>Currently employeed as a support fullstack developer at <a href="https://r1.team" target="_blank">R1.team</a></li>
-         <li>Evolving current blog and surrounding enviroment. See my [Telegram] and [other stuff]</li>
-         <li>Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a>.
-            Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
-         </li>
-         <li>Do research in software engineering with <a href="https://www.yegor256.com" target="_blank">Yegor Bugayenko</a>.
-            The topic is "Quality of bug reports"
-        </li>
-        <li>
-            Started as mentor for web developers in <u>Projects Labs</u>. To get more info contact me in direct [Telegram]
-        </li>
-         <li>
-            Taking a step into <a href="https://ocw.mit.edu/" target="_blank">MIT open-courseware</u>
-         </li>
-    </ul>
 </ul>
 ---
 
@@ -48,14 +46,14 @@ But it always has been a problem with mixing up emotions, *psychology* and that 
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
-        <a href='/tags/#Self-education'>Self-education</a>
+        <a href='/tags/#Education'>Education</a>
     </div>
 </div>
 The IT world has a gigantic information space, since it began with the essence of information itself and everything, that can be documented, saved, transported and shared.
 This article represents my view on it and suggests how to overcome the situation of a real overwhelming and distracting information flow, what might be good, what might be bad and why ?
 ---
 
-[Books](/Books/Books) - here i present books in my lib.
+[Books](/Books/Books) - here i present books in my lib - *18.09.2023*
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -64,7 +62,7 @@ This article represents my view on it and suggests how to overcome the situation
 </div>
 ---
 
-[My projects](/My projects/Projects/) from github.
+[My projects](/My projects/Projects/) from github - *18.09.2023*
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
