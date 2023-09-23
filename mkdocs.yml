@@ -59,6 +59,17 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  - mermaid2:
+      version: '9.4.3' # only works with version < 10
+      arguments:
+        theme: 'base'
+        themeVariables:
+          primaryColor: '#000'
+          primaryTextColor: '#fff'
+          primaryBorderColor: '#fff'
+          lineColor: '#F8B229'
+          secondaryColor: '#0909c1'
+          tertiaryColor: '#fff'
 
 extra_css:
   - stylesheets/extra.css

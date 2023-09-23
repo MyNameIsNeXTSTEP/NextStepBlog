@@ -1,5 +1,5 @@
 # **HOME PAGE**
-## Objectives
+## **Objectives**
 In this blog i pursue such goals as growth of the local and global software engineering community, usefull thoughts, researches and articles about software endineering, robotics, management, work, businesses.
 
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
@@ -30,27 +30,22 @@ In this blog i pursue such goals as growth of the local and global software engi
 </ul>
 ---
 
-## Recent posts
-[Psychology VS Strong management](/Management/Psychology VS Strong management) - *21.08.2023 | 9-11 min. reading*
+## **Recent posts**
+[Decorators and composition](/Programming/Decorators and composition) - *23.09.2023* | *6-7 min. reading*  
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
-        <a href='/tags/#Management'>Management</a>
+        <a href="/tags#Programming">Programming</a>
+    </div>
+    <div class='tag'>
+        <a href="/tags#Typescript">Typescript</a>
+    </div>
+    <div class='tag'>
+        <a href="/tags#OOP">OOP</a>
     </div>
 </div>
-All of you know, I guess, since the collective and cooperative work in society has become sort of an instrument of reaching and achieving something, people recognized some regularity in it, controlling, "management" we should say.
-But it always has been a problem with mixing up emotions, *psychology* and that *control* in a one process. So today we have a situation, as I see it, when in all industries the management mass separated in two general fields anyhow, or not evenly…
----
+According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its behavior. In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically…
 
-[Knowledges in IT](/Programming/Knowledges in IT/) - *24.08.2023 | 5-6 min. reading*
-<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
-<div class="tags">
-    <div class='tag'>
-        <a href='/tags/#Education'>Education</a>
-    </div>
-</div>
-The IT world has a gigantic information space, since it began with the essence of information itself and everything, that can be documented, saved, transported and shared.
-This article represents my view on it and suggests how to overcome the situation of a real overwhelming and distracting information flow, what might be good, what might be bad and why ?
 ---
 
 [Books](/Books/Books) - here i present books in my lib - *18.09.2023*
@@ -69,3 +64,27 @@ This article represents my view on it and suggests how to overcome the situation
         <a href='/tags/#Projects'>Projects</a>
     </div>
 </div>
+
+---
+
+[Knowledges in IT](/Programming/Knowledges in IT/) - *24.08.2023 | 5-6 min. reading*
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href='/tags/#Education'>Education</a>
+    </div>
+</div>
+The IT world has a gigantic information space, since it began with the essence of information itself and everything, that can be documented, saved, transported and shared.
+This article represents my view on it and suggests how to overcome the situation of a real overwhelming and distracting information flow, what might be good, what might be bad and why ?
+
+---
+
+[Psychology VS Strong management](/Management/Psychology VS Strong management) - *21.08.2023 | 9-11 min. reading*
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href='/tags/#Management'>Management</a>
+    </div>
+</div>
+All of you know, I guess, since the collective and cooperative work in society has become sort of an instrument of reaching and achieving something, people recognized some regularity in it, controlling, "management" we should say.
+But it always has been a problem with mixing up emotions, *psychology* and that *control* in a one process. So today we have a situation, as I see it, when in all industries the management mass separated in two general fields anyhow, or not evenly…

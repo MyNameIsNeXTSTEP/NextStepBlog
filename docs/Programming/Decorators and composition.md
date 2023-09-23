@@ -11,18 +11,18 @@
         <a href="/tags#OOP">OOP</a>
     </div>
 </div>
-*23.09.2023* | *5-6 min. reading*  
+*23.09.2023* | *6-7 min. reading*  
 *Further examples are in typescript, compiled and ran with ts-node*
 
 ---
 ## Introduction
 
-According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its behavior. In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically.
+According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its **behavior**. In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically.
 
 ### Details
 
 Lets make a claim, why its good and what are the benefits:
-- It follows the essential principle in true OOP - combine (wrap) smaller objects in a bigger one. And since the object has to hide data and expose behavior, a decorator encapsulates that behavior and adds some more to it, which wasn't the responsibility of original object on first place.
+- It follows the essential principle in true OOP - combine (wrap) smaller objects in a bigger one. And since the object has to hide data and expose behavior, a decorator **encapsulates that behavior** and adds some more to it, which wasn't the responsibility of original object on first place.
 
 - It saves you control of it. When an object is decorated, and if it's small and easy to understand, the composition with decorator, when wrapping, lets for programmer easy control behavior addition (see this article).  Practically it means, when you write a decorator to an object it still is your code and your object, you keep control over it.
   
@@ -33,9 +33,22 @@ Lets make a claim, why its good and what are the benefits:
     3. *GrammarCheckedFile* - if you do, for example, grammar checking for a file that contains some human language and want to pass it somewhere further you can expand the behavior of original file by grammar checking decorator, which would return an original file and a report of checking with errors, warnings…
 
 That being said, we represent our object model like this:
-<img src="/assets/Programming/Decorators/composition.png" alt="composition" width="400"/>
+```mermaid
+flowchart TB
+    subgraph decorator3
+        subgraph object4
+            subgraph decorator1
+                Object1
+                Object2
+                end
+            subgraph decorator2
+                object3
+            end
+        end
+    end
+```
 
-So when the composition take place, and as we know, it's the best solution for creating a clean OO architecture, easy to maintain, test, fix, extend, modify.
+So when the composition takes a place, and as we know, it's the best solution for creating a clean OO architecture, easy to maintain, test, fix, extend, modify.
 
 ---
 ### In action
@@ -198,15 +211,55 @@ transform an original object representation to the outside by adding a new layer
 Thus, when base object is about to be treated with some new behavior, things we need to remember - do not expose just data, do not write more and more methods not related to the direct responsibility of an object. It means we can and do need to compose and compose larger objects by decorators, new objects, some new decorators…
 
 In the end some program may look like this and i think it's a wonderful content to see and maintain:
-*An example of some kind company - client agreement registration and signing*
+*An example of some kind of company & client agreement registration and signing*
 ```
 new Registration(
 	new ClientAgreement(
 		new CompanySignedAgreement(
-			new PatternDraftedFile().draft(
+			new PatternDraftedFile(
 				new File('UserAgreementData.xml')
-			).toPDF()
+			).draft()
+            .toPDF()
 		).validate()
 	).sign()
 ).proceed()
+```
+
+[UML design](https://creately.com/guides/class-diagram-relationships/):
+```mermaid
+classDiagram
+namespace File-content-composition{
+    class File {
+        string filename: string
+        content() string
+    }
+    class PatternDraftedFile {
+        file File
+        draft() File
+        toPDF() File
+    }
+}
+File --* PatternDraftedFile : content()
+PatternDraftedFile ..> CompanySingedAgreement : draft()
+PatternDraftedFile ..> CompanySingedAgreement : toPDF()
+
+namespace Agreement-aggregation {
+    class CompanySingedAgreement {
+        file File
+        validate() File
+    }
+    class ClientAgreement {
+        file File
+        sign() File
+    }
+}
+CompanySingedAgreement .. ClientAgreement : validate()
+
+namespace Refistration-proceeds {
+    class Registration {
+        file File
+        proceed() File
+    }
+}
+ClientAgreement ..> Registration : sign()
 ```
