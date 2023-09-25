@@ -24,10 +24,11 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the d
 Lets make a claim, why its good and what are the benefits:
 - It follows the essential principle in true OOP - combine (wrap) smaller objects in a bigger one. And since the object has to hide data and expose behavior, a decorator **encapsulates that behavior** and adds some more to it, which wasn't the responsibility of original object on first place.
 
-- It saves you control of it. When an object is decorated, and if it's small and easy to understand, the composition with decorator, when wrapping, lets for programmer easy control behavior addition (see this article).  Practically it means, when you write a decorator to an object it still is your code and your object, you keep control over it.
+- It saves you control over it.  
+    When an object is decorated, and if it's small and easy to understand, the composition with decorator, when wrapping, lets for programmer easy control behavior addition (see this article).  Practically it means, when you write a decorator to an object it still is your code and your object, you keep control over it.
   
-- It gives you great tool for specifying distribution by purpose.
-  If you have a *File* object, when decorating it for different use-cases it maybe:
+- It gives you great tool for specifying **distribution by purpose**.  
+  For example, if you have a *File* object, when decorating it for different use-cases it maybe:
     1. *CachedFile* - original file is decorated with cache layer, that allow reading the file for the first time and after gives you a cached content, until file's content is changed.
     2. *LicensedFile* - for example, when you read a file made changes to it or want to add only the license for contributing then it to somewhere, you may create a decorator to write a license over and use it when needed.
     3. *GrammarCheckedFile* - if you do, for example, grammar checking for a file that contains some human language and want to pass it somewhere further you can expand the behavior of original file by grammar checking decorator, which would return an original file and a report of checking with errors, warnings…
@@ -57,10 +58,7 @@ So when the composition takes a place, and as we know, it's the best solution fo
 Lets take a quick look on programming.
 We have a *sample.txt* file with following content:
 ```
-Intro
-...
 This is some content
-123456
 ```
 And we've wrote a *File.ts*:
 ```typescript
@@ -91,10 +89,7 @@ console.log(
 ```
 Result we have:
 ```
-Intro
-...
 This is some content
-123456
 ```
 
 Now we want to have a cached file, that would allow us take a content without every time bothering original file and actually reading it, we can use *CachedFile.ts* decorator:
@@ -134,24 +129,15 @@ And now we have this:
 ```
 call original file
 
-Intro
-...
 This is some content
-123456
 
 First call
 
-Intro
-...
 This is some content
-123456
 
 Second call
 
-Intro
-...
 This is some content
-123456
 
 Third call
 ```
@@ -186,10 +172,7 @@ Result:
 ```
 LICENSED with ABC…
 ---
-Intro
-...
 This is some content
-123456
 ```
 
 We can also combine them together:

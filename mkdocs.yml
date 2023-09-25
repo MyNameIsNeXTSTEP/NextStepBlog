@@ -4,7 +4,6 @@ theme:
     logo: assets/logo1.png
     favicon: assets/logo1.png
     name: 'material'
-    custom_dir: custom_theme
     shortcuts:
       help: 191 # ?
       next: 78 # n
