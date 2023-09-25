@@ -2,42 +2,48 @@
 <html lang="en">
 <style>
     .container {
-        width: fit-content;
-        background-color: #000;
-        padding: 5px;
-        border-radius: 15px;
-    }
-    .socials {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: center;
-        width: auto;
-
+        width: fit-content;
+        margin-top: 40px;
+        margin-left: 10px;
     }
     .social-item {
-        margin-right: 10px;
+        margin: 5px;
         cursor: pointer;
         font-size: 12px;
         padding: 5px;
         border-radius: 10px;
-        color: white;
+        color: currentColor;
     }
-    .social-item:hover {
-        transform: scale(1.1);
-        transition: ease 0.5s;
-    }
+
     #TG {
+        border: 2px solid darkslateblue;
+    }
+    #TG:hover {
         background-color: darkslateblue;
     }
+
     #SO {
-        background-color: chocolate;
+        border: 2px solid tomato;
     }
+    #SO:hover {
+        background-color: tomato;
+    }
+
     #GH {
-        background-color: black;
+        border: 2px solid black;
     }
+    #GH:hover {
+        background-color: black;
+        color: white !important;
+    }
+
 </style>
 <body>
     <div class="container">
+        <h4 style="margin-left: 10px">SOCIALS</h4>
         <button class='social-item' id="TG" href="">
             <a target="_blank" href="https://t.me/NEXTSTEP4x4">Telegram<a>
         </button>
