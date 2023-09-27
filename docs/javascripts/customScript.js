@@ -5,7 +5,6 @@ window.onload = () => {
     $('.md-nav--primary').children('label').remove();
     // NEWS tab coloring
     $( "a:contains('NEWS')")[0].style.color = "tomato";
-
     // SOCIALS
     const $socialsRow = $('<div/>', { class: 'socials' });
     if ($(window).width() > 960) {

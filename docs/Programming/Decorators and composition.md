@@ -17,7 +17,8 @@
 ---
 ## Introduction
 
-According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its **behavior**. In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically.
+According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its **behavior**.  
+In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically.
 
 ### Details
 
@@ -25,7 +26,8 @@ Lets make a claim, why its good and what are the benefits:
 - It follows the essential principle in true OOP - combine (wrap) smaller objects in a bigger one. And since the object has to hide data and expose behavior, a decorator **encapsulates that behavior** and adds some more to it, which wasn't the responsibility of original object on first place.
 
 - It saves you control over it.  
-    When an object is decorated, and if it's small and easy to understand, the composition with decorator, when wrapping, lets for programmer easy control behavior addition (see this article).  Practically it means, when you write a decorator to an object it still is your code and your object, you keep control over it.
+    When an object is decorated, and if it's small and easy to understand, the composition with decorator, when wrapping, lets for programmer easy control behavior addition (see this article).  
+    Practically it means, when you write a decorator to an object it still is your code and your object, you keep control over it.
   
 - It gives you great tool for specifying **distribution by purpose**.  
   For example, if you have a *File* object, when decorating it for different use-cases it maybe:

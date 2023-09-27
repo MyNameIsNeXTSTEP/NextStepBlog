@@ -2,9 +2,24 @@
     font-size: .8rem;
 }
 
+article {
+    @media (width > 960px) { 
+        width: 700px !important;
+    }
+}
+
 article a {
     color: var(--md-primary-fg-color) !important;
     text-decoration: underline;
+}
+
+article > h1 {
+    font-size: 48px !important;
+}
+
+article > h1 > strong,
+article > h2 > strong {
+    color: var(--md-primary-fg-color);
 }
 
 article > h1 > a {
@@ -13,4 +28,9 @@ article > h1 > a {
 
 article > h2 > a {
     text-decoration: none;
+}
+
+.mermaid {
+    display: flex;
+    justify-content: center;
 }
