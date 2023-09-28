@@ -1,5 +1,11 @@
-.md-nav--primary {
+.md-nav--primary,
+.md-nav--secondary {
     font-size: .8rem;
+}
+
+article > p,
+article > ul > li {
+    font-size: 0.9rem;
 }
 
 article {
@@ -14,7 +20,7 @@ article a {
 }
 
 article > h1 {
-    font-size: 48px !important;
+    font-size: 46px !important;
 }
 
 article > h1 > strong,

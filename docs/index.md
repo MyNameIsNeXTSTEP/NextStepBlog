@@ -8,18 +8,16 @@ In this blog i pursue such goals as growth of the local and global software engi
     What do i work on now
         <ul class="drop-down-items ddi-closed">
             <li>Currently employeed as a support fullstack developer at <a href="https://r1.team" target="_blank">R1.team</a></li>
-            <li>Evolving current blog and surrounding enviroment. See my [Telegram] and [other stuff]</li>
-            <li>Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a>.
+            <li>Lead the channel in <a href="https://t.me/NEXTSTEP4x4" target="_blank">Telegram</a><br/>
+                Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a><br/>
                 Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
             </li>
-            <li>Do research in software engineering with <a href="https://www.yegor256.com" target="_blank">Yegor Bugayenko</a>.
+            <li>Do research in software engineering with Moscow Huawei research center lead <a href="https://www.yegor256.com" target="_blank">Yegor Bugayenko.</a><br/>
                 The topic is "Quality of bug reports"
             </li>
             <li>
-                Started as mentor for web developers in <u>Projects Labs</u>. To get more info contact me in direct [Telegram]
-            </li>
-            <li>
-                Taking a step into <a href="https://ocw.mit.edu/" target="_blank">MIT open-courseware</a>
+                Started as the mentor for web-developers in <u>Projects Lab</u> accelerator for students to practice and get ready to start a career.<br/>
+                To get more info contact me in direct.
             </li>
         </ul>
     </li>

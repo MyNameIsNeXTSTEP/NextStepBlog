@@ -20,7 +20,7 @@
 According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its **behavior**.  
 In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically.
 
-### Details
+## Details
 
 Lets make a claim, why its good and what are the benefits:
 - It follows the essential principle in true OOP - combine (wrap) smaller objects in a bigger one. And since the object has to hide data and expose behavior, a decorator **encapsulates that behavior** and adds some more to it, which wasn't the responsibility of original object on first place.
@@ -54,9 +54,8 @@ flowchart TB
 So when the composition takes a place, and as we know, it's the best solution for creating a clean OO architecture, easy to maintain, test, fix, extend, modify.
 
 ---
-### In action
-
-#### Example 1
+## In action
+### Example 1
 Lets take a quick look on programming.
 We have a *sample.txt* file with following content:
 ```
@@ -145,7 +144,7 @@ Third call
 ```
 *As we see, `call original file` is shown only once, which means other contents were from the cache*
 
-#### Example 2
+### Example 2
 And last example - *LicensedFile*, this one is shorter and easy to understand its purpose, i believe:
 ```typescript
 import { IFile, File } from "./File";
@@ -186,7 +185,7 @@ const licensedFile = new CachedFile (
 ));
 ```
 ---
-### Conclusion
+## Conclusion
 
 As we can see, decorators let us compose objects,
 see clear the control flow,
@@ -210,7 +209,8 @@ new Registration(
 ).proceed()
 ```
 
-[UML design](https://creately.com/guides/class-diagram-relationships/):
+<a href="https://creately.com/guides/class-diagram-relationships/" target="_blank">UML design<a>:  
+
 ```mermaid
 classDiagram
 namespace File-content-composition{
