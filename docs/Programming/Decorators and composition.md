@@ -20,6 +20,9 @@
 According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its **behavior**.  
 In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically.
 
+*Important note*  
+A decorator should always implement the original interface and be treated as the original decoratee (what is decorated) to the client usgin it. So the can not be no extra methods, behavior or overriding existent.
+
 ## Details
 
 Lets make a claim, why its good and what are the benefits:
