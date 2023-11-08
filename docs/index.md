@@ -1,14 +1,12 @@
 # **HOME PAGE**
-## **Objectives**
-In this blog i pursue such goals as growth of the local and global software engineering community, usefull thoughts, researches and articles about software endineering, robotics, management, work, businesses.
-
+Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the blog, enjoy commenting, feel free to provide saggestions, propose ideas for posts and researches!
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
 <ul class="drop-down-menu">
    <li class="drop-down-list">
     What do i work on now
         <ul class="drop-down-items ddi-closed">
             <li>Currently employeed as a support fullstack developer at <a href="https://r1.team" target="_blank">R1.team</a></li>
-            <li>Lead the channel in <a href="https://t.me/NEXTSTEP4x4" target="_blank">Telegram</a><br/>
+            <li>Lead the channel in <a href="https://t.me/NextStepOrg" target="_blank">Telegram</a><br/>
                 Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a><br/>
                 Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
             </li>
@@ -26,7 +24,6 @@ In this blog i pursue such goals as growth of the local and global software engi
         src="/assets/upArrow.png"
     />
 </ul>
----
 
 ## **Recent posts**
 [Decorators and composition](/Programming/Decorators and composition) - *23.09.2023* | *6-7 min. reading*  
