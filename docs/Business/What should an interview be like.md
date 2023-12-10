@@ -35,12 +35,15 @@ In this chapter i will explain in short how i see and think nowadays companies o
 That's a flagman ship in the ocean of recruiting employees, they have large and experienced departments for HR, for checking candidates. It's most probably, that they carry out such activities in a sustainable and dry scenario which, of course, implies *regular stream* work for the customer. In these types of companies it's difficult, as i think, fully apply your enthusiasm at the beginning because they do care about resource and risk management when hiring people. What they truly need is the employee, that can just do his/her work at full-day time in 8 hours, close necessary high priority tickets and be in good relations with the leadership of a department.
 
 While, at the same time there're pros to it too:
+
 - Huge knowledge and process bases for products, communications.
 - Support by labor laws from the government
 - More people to communicate with
 - Sometimes interesting tasks and projects, products for internal/external usage with high-loading and extraordinary details
 - Career growth in long terms is much better
+
 Now, lets summarise the cons:
+
 - Typical and conveyer like work and tasks
 - Most likely the management style is less strict and less formal
 - Company does not so much appreciate your free time, even though it can affect the work in a good way somehow
@@ -57,13 +60,17 @@ Pros here are that they do not care so much about your free time, in particular,
 
 ### Startup
 Here we finally have the most interesting type of companies, because of the enthusiasm they have and the faults they face. Here are present most of the bad thing i've mentioned above with the most attractive thing too. And yes, let me not to forget how much money, time, energy etc. do investors and developers waste on in these projects. But the experience the smart guy can get out of it is a good one, if apply it cleverly.
+
 Pros:
+
 - Freedom and variability of actions
 - You plan your time and task in most cases
 - Extraordinary experience and projects
 - Open source
 - A chance to influence with the most valuable deliverable than in other types of companies in usual positions similar to one here
+
 Cons:
+
 - Money
 - Time spending
 - Lazy management or it's absence
