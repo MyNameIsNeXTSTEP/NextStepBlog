@@ -1,5 +1,5 @@
-# **HOME PAGE**
-Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the blog, enjoy commenting, feel free to provide saggestions, propose ideas for posts and researches!
+# **HOME**
+Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the blog, enjoy commenting, feel free to provide saggestions, propose ideas for posts and researches.
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
 <ul class="drop-down-menu">
    <li class="drop-down-list">
@@ -25,7 +25,19 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
     />
 </ul>
 
-## **Recent posts**
+## **2023:**
+[What should an interfiew be like ?](/Business/What should an interview be like) - *10.12.2023 | 5-6 min. reading*
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href='#Business'>Business</a>
+    </div>
+</div>
+As we see today, the system or pipeline of getting people to companies most likely differs.
+In this chapter i will explain in short how i see and think nowadays companies of each type as mentioned in the list above conduct their interviews and how it would be better to change them, let's take a look on pros and cons of it.
+
+---
+
 [Decorators and composition](/Programming/Decorators and composition) - *23.09.2023* | *6-7 min. reading*  
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
@@ -41,7 +53,7 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
 </div>
 According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its behavior. In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically…
 
----
+<!-- ---
 
 [Books](/Books/Books) - here i present books in my lib - *18.09.2023*
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
@@ -58,7 +70,7 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the d
     <div class='tag'>
         <a href='/tags/#Projects'>Projects</a>
     </div>
-</div>
+</div> -->
 
 ---
 
