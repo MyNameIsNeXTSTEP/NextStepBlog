@@ -2,6 +2,15 @@
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
+        <a href='#Business'>Business</a>
+    </div>
+</div>
+[What should an interfiew be like](/Business/What should an interview be like) - *10.12.2023 | 5-6 min. reading*
+
+---
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
         <a href='#Management'>Management</a>
     </div>
 </div>
