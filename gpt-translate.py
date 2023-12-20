@@ -4,7 +4,7 @@ Prerequisites:
   2. Environment: file in the root dir named '.env' with this inside:
     OPENAI_API_KEY=<your_openai_API-KEY_here>
 
-Usage: (bash) python3 gpt-translate.py '<path_to_file>'
+Usage script (bash): `python3 gpt-translate.py <path_to_file>`
 *NOTE: If specifying path to file in some directory, do not write / sign in the front of first directory name
 
 Result: The translation saves to `gpt-translation-response.md` file in the root dir
