@@ -1,0 +1,42 @@
+.md-nav--primary,
+.md-nav--secondary {
+    font-size: .8rem;
+}
+
+article > p,
+article > ul > li {
+    font-size: 0.9rem;
+}
+
+article {
+    @media (width > 960px) { 
+        width: 700px !important;
+    }
+}
+
+article a {
+    color: var(--md-primary-fg-color) !important;
+    text-decoration: underline;
+}
+
+article > h1 {
+    font-size: 46px !important;
+}
+
+article > h1 > strong,
+article > h2 > strong {
+    color: var(--md-primary-fg-color);
+}
+
+article > h1 > a {
+    text-decoration: none;
+}
+
+article > h2 > a {
+    text-decoration: none;
+}
+
+.mermaid {
+    display: flex;
+    justify-content: center;
+}
