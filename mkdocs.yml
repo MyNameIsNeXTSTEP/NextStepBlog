@@ -3,7 +3,8 @@ site_name: Next Step blog
 theme:
     logo: assets/logo1.png
     favicon: assets/logo1.png
-    name: 'material'
+    name: material
+    custom_dir: custom_templates
     shortcuts:
       help: 191 # ?
       next: 78 # n
