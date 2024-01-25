@@ -69,7 +69,6 @@
   {% elif not first.meta.hide_from_menu%}
     <a href="{{ first.url | url }}" class="md-nav__link">
       {{ render_content(ref) }}
-
       <!-- Only render toggle if there's at least one nested item -->
       {% if nav_item.children | length > 0 %}
         <span class="md-nav__icon md-icon"></span>

@@ -1,3 +1,4 @@
+<span class='traslation_button'>[Read in RUS (translated by ChatGPT)](/Programming/Decorators-rus)</span>
 # **Decorators and composition**
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">

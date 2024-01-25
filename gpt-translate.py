@@ -37,27 +37,34 @@ def askGPT(content: str):
       model="gpt-4",
       messages=[{ 'role': 'user', 'content': prompt }],
     )
-    print('Message was sent successfully')
-    return list(
+    print('\nMessage was sent successfully\n')
+    outputContentArray = list(
       map(lambda choice: choice.message.content, response.choices)
     )
+    return outputContentArray
   # @todo: Fix Error type processing (maybe not only the AttributeError) &
   # Alse error might be raised during/after requesting OpenAI
   except AttributeError:
     print('There is no such attribute')
 
 def writeAnswerToFile(lines: str) -> None:
+  lines.insert(0, '---\nhide_from_menu: true\n---\n\n') # to hide translation MD files from menu list (access only by ref)
+  [ pathToSave, saveName ] = translationSourceFilename.rsplit('/', 1) # to save in the same dir as the origin file is
   try:
-    with open('gpt-translation-response.md', 'w') as file:
+    with open(
+      '{}/{}-rus.md'.format(pathToSave, saveName.rsplit('.')[0])
+      , 'w') as file:
       file.writelines(lines)
   except:
     raise Exception('Error: Something went wrong')
 
 fileContentForTranslation = getFileContent(translationSourceFilename)
+
 print('\nTokens of given strings in the file: %s' % tokensOfStrings(
   fileContentForTranslation, 'cl100k_base')
-  )
+)
 
+# Final execution
 writeAnswerToFile(
   askGPT(
    fileContentForTranslation 

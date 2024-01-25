@@ -3,6 +3,12 @@
     font-size: .8rem;
 }
 
+article .traslation_button {
+    background-color: orange;
+    padding: 3px;
+    font-size: 0.8rem;
+}
+
 article > p,
 article > ul > li {
     font-size: 0.9rem;
