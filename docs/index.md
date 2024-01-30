@@ -1,11 +1,14 @@
 # **HOME**
+
+<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/index-rus)</span>
+
 Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the blog, enjoy commenting, feel free to provide saggestions, propose ideas for posts and researches.
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
 <ul class="drop-down-menu">
    <li class="drop-down-list">
     What do i work on now
         <ul class="drop-down-items ddi-closed">
-            <li>Currently employeed as a support fullstack developer at <a href="https://r1.team" target="_blank">R1.team</a></li>
+            <li>Currently employeed as a support fullstack developer at <a href="https://r1.team" target="_blank">r1.team</a></li>
             <li>Lead the channel in <a href="https://t.me/NextStepOrg" target="_blank">Telegram</a><br/>
                 Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a><br/>
                 Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
@@ -34,7 +37,7 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
     </div>
 </div>
 As we see today, the system or pipeline of getting people to companies most likely differs.
-In this chapter i will explain in short how i see and think nowadays companies of each type as mentioned in the list above conduct their interviews and how it would be better to change them, let's take a look on pros and cons of it.
+In this chapter i will explain in short how i see and think nowadays companies of each type as mentioned in the list above conduct their interviews and how it would be better to change them, let's take a look on pros and cons of it…
 
 ---
 
@@ -52,25 +55,6 @@ In this chapter i will explain in short how i see and think nowadays companies o
     </div>
 </div>
 According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the decorator pattern is some sort of an object wrapper around original (target) object, that expands somehow its behavior. In programming its the most widely, i believe, and frequently used design pattern, in OOP specifically…
-
-<!-- ---
-
-[Books](/Books/Books) - here i present books in my lib - *18.09.2023*
-<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
-<div class="tags">
-    <div class='tag'>
-        <a href='/tags/#Books'>Books</a>
-    </div>
-</div>
----
-
-[My projects](/My projects/Projects/) from github - *18.09.2023*
-<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
-<div class="tags">
-    <div class='tag'>
-        <a href='/tags/#Projects'>Projects</a>
-    </div>
-</div> -->
 
 ---
 

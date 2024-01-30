@@ -3,10 +3,8 @@
     font-size: .8rem;
 }
 
-article .traslation_button {
-    background-color: orange;
-    padding: 3px;
-    font-size: 0.8rem;
+article .translation_button {
+    font-size: 14px;
 }
 
 article > p,

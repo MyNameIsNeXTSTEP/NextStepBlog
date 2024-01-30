@@ -7,9 +7,11 @@ Prerequisites:
 Usage script (bash): `python3 gpt-translate.py <path_to_file>`
 *NOTE: If specifying path to file in some directory, do not write / sign in the front of first directory name
 
-Result: The translation saves to `gpt-translation-response.md` file in the root dir
+Result: The translation saves to `{sourcefileName}-rus.md` file in the same directory as the source file
 '''
 
+# Need refactoring on how to read and safe files
+# Additionally would be better to create sort of a plug for testing script logic without using GPTs API
 import sys
 import tiktoken
 from dotenv import load_dotenv
@@ -47,24 +49,41 @@ def askGPT(content: str):
   except AttributeError:
     print('There is no such attribute')
 
-def writeAnswerToFile(lines: str) -> None:
+def insertLinkInTranslationPage(lines, saveName):
+  print(saveName)
   lines.insert(0, '---\nhide_from_menu: true\n---\n\n') # to hide translation MD files from menu list (access only by ref)
-  [ pathToSave, saveName ] = translationSourceFilename.rsplit('/', 1) # to save in the same dir as the origin file is
+  link = "\n<span class='translation_button'>[Читать на англ.](/{})</span>\n".format(saveName
+    .replace('docs/', '')
+    .replace('.md', ''))
+  lines[1] = lines[1].split('\n')[0] + link + '\n'.join(lines[1].split('\n')[1:])
+  return lines
+
+def insertLinkInEnglishPage(filename, linkFileName):
+  link = "\n<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/{})</span>\n".format(linkFileName
+    .replace('docs/', '')
+    .replace('.md', ''))
+  with open(filename, 'r') as sourceFile:
+    data = sourceFile.readlines()
+  data[0] = data[0] + link
+  with open(filename, 'w') as targetFile:
+    targetFile.writelines(''.join(data))
+
+def writeAnswerToFile(lines: str) -> None:
+  [ pathToSave, fileName ] = translationSourceFilename.rsplit('/', 1) # save in the same dir as the origin file is
+  saveName = '{}/{}-rus.md'.format(pathToSave, fileName.rsplit('.')[0])
+  linesWithTranslationInfo = insertLinkInTranslationPage(lines, '{}/{}'.format(pathToSave, fileName))
+  insertLinkInEnglishPage(translationSourceFilename, saveName)
   try:
-    with open(
-      '{}/{}-rus.md'.format(pathToSave, saveName.rsplit('.')[0])
-      , 'w') as file:
-      file.writelines(lines)
+    with open(saveName, 'w') as file:
+      file.writelines(linesWithTranslationInfo)
   except:
     raise Exception('Error: Something went wrong')
 
-fileContentForTranslation = getFileContent(translationSourceFilename)
-
-print('\nTokens of given strings in the file: %s' % tokensOfStrings(
-  fileContentForTranslation, 'cl100k_base')
-)
 
 # Final execution
+fileContentForTranslation = getFileContent(translationSourceFilename)
+print('\nTokens of given strings in the file: {}' .format(tokensOfStrings(fileContentForTranslation, 'cl100k_base')))
+
 writeAnswerToFile(
   askGPT(
    fileContentForTranslation 

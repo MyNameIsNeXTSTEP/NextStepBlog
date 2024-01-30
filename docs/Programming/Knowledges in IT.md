@@ -1,4 +1,5 @@
 # **Knowledges in IT**
+<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/Programming/Knowledges in IT-rus)</span>
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -33,11 +34,11 @@ Problems, as I see it for now:
 3. Distraction by new and interesting technologies for those, who don't need it, yet they could not know it and would find themselves a couple years later thinking that he/she should have had prioritize wishes before now
 4. A huge variety of **real and true** & **far-fetched and fake** ideas, principles, approaches
 
-## What to do with what and how
+## What to do and how
 First, my general point here is: do not try to get everything and in a short time, rather think and cut off everything superfluous now, form priorities, find reliable and professional sources of data, information, exercises, move along them.
 Follow some sort of [kaidzen](https://en.wikipedia.org/wiki/Kaizen) planning, little step by step go to your goals, which must be incremental and small too. Free your important and valuable time for specific studying, how to program in a new language, how to use this tool, what this system is and how i works. BUT…
 
-Do not try to think like you do it so, but constantly distracting on something else, even when you learn new stuff, it must be, i think, not just for learning itself, but for a little step further in real life, in a project, in experience, in some summary in the company, in some valuable stuff for others. Do not when reading about some features of a technology, go deeper and deeper in winding paths, losing understanding and meaning of what was really needed at the start.
+Do not try to think like you do it so every day, but at the same time constantly distracting on something else, even when you learn new stuff, it must be, i think, not just for learning itself, but for a little step further in real life, in a project, in experience, in some summary in the company, in some valuable stuff for others. Do not when reading about some features of a technology, go deeper and deeper in winding paths, losing understanding and meaning of what was really needed at the start.
 
 My suggestions are:
 
@@ -48,7 +49,7 @@ My suggestions are:
 - Free the amount of necessary energy/power and time for it, do not *fire this fuel* for extra and not correlated to the point.
 
 ## Conclusion
-Today we face a lot of flashy banners and media pushing us to get associated with it, be sceptical in mind, try to figure out how can help me, but FIRSTLY before it, you need to know at least what you need at general, and only then seek for instruments, resources, people and other stuff to get your job be done well.
+Today we face a lot of flashy banners and media pushing us to get associated with it, be sceptical in mind, try to figure out how can help me, but **firstly** before it, you need to know at least what you need at general, and only then seek for instruments, resources, people and other stuff to get your job be done well.
 
 When you see on some site *"The X principle is a better one…"* or *"Technology Y is gone in past…"* or *"You should do only so…"*.
 Become an appraiser, a researcher, sort out the issue if it worries or interests you, structure the information in your head and on some medium, try to find the pros and cons, and only then decide whether it is necessary or not.

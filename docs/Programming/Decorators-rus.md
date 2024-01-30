@@ -1,8 +1,9 @@
 ---
 hide_from_menu: true
 ---
-<span class='traslation_button'>[Read in EN](/Programming/Decorators and composition)</span>
 # **Decorators-rus**
+<span class='translation_button'>[Читать на англ.](/Programming/Decorators and composition)</span>
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>

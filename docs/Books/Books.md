@@ -1,8 +1,10 @@
 # **Books**
-*To find electronic files to read, you can contact me*
+
+<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/Books/Books-rus)</span>
+
 ### Software engineering
 1. [Object Thinking | David West](https://www.google.com/search?q=Object+Thinking+%7C+David+West+%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0) [reading now]
-2. [Clean Architecture | Robert Martin](https://www.google.com/search?q=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0+clean+architecture+robert+martin) [reading now]
+2. [x] [Clean Architecture | Robert Martin](https://www.google.com/search?q=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0+clean+architecture+robert+martin)
 3. [Clean Code | Robert Martin](https://www.google.com/search?q=книга+clean+code+robert+martin)
 4. [Managing the testing process | Rex Black](https://www.google.com/search?q=Managing+the+testing+process+%7C+Rex+Black+%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)
 5. [Release It! | Michael T. Nygard](https://www.google.com/search?q=Release+It!+%7C+Michael+T.+Nygard+%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)

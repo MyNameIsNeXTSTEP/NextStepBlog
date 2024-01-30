@@ -1,4 +1,6 @@
 # **Psychology VS Strong management**
+
+<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/Management/Psychology VS Strong management-rus)</span>
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
