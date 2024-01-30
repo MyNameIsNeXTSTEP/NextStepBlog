@@ -28,6 +28,7 @@ A decorator should always implement the original interface and be treated as the
 ## Details
 
 Lets make a claim, why its good and what are the benefits:
+
 - It follows the essential principle in true OOP - combine (wrap) smaller objects in a bigger one. And since the object has to hide data and expose behavior, a decorator **encapsulates that behavior** and adds some more to it, which wasn't the responsibility of original object on first place.
 
 - It saves you control over it.  
