@@ -13,11 +13,14 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
                 Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a><br/>
                 Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
             </li>
+            <li>
+                Sometimes freelancing
+            </li>
             <li>Do research in software engineering with Moscow Huawei research center lead <a href="https://www.yegor256.com" target="_blank">Yegor Bugayenko.</a><br/>
                 The topic is "Quality of bug reports"
             </li>
             <li>
-                Started as the mentor for web-developers in <u>Projects Lab</u> accelerator for students to practice and get ready to start a career.<br/>
+                Started as the mentor for web-developers in <u>Projects Lab</u> (link's not accessable yet) accelerator for students to practice and get ready to start a career.<br/>
                 To get more info contact me in direct.
             </li>
         </ul>
