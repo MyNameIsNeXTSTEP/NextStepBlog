@@ -3,6 +3,10 @@
     font-size: .8rem;
 }
 
+article .translation_button {
+    font-size: 14px;
+}
+
 article > p,
 article > ul > li {
     font-size: 0.9rem;

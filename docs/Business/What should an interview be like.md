@@ -1,4 +1,6 @@
 # **What should an interview be like**
+
+<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/Business/What should an interview be like-rus)</span>
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
