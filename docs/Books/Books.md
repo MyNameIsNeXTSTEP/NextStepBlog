@@ -25,9 +25,8 @@
 ### Conversation
 1. - [x] [Я слышу вас насквозь. Эффективная техника переговоров | Марк Гоулстон](https://www.google.com/search?q=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0+%D0%AF+%D1%81%D0%BB%D1%8B%D1%88%D1%83+%D0%B2%D0%B0%D1%81+%D0%BD%D0%B0%D1%81%D0%BA%D0%B2%D0%BE%D0%B7%D1%8C.+%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B2+%7C+%D0%9C%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%83%D0%BB%D1%81%D1%82%D0%BE%D0%BD) [read]
 
-### Psychology
-1. …
-
+### Human being & Psychology
+1. [Ошибки мозга. Невролог рассказывает о странных изменениях человеческого сознания | Роппер, Баррелл](https://www.labirint.ru/books/925668/)
 
 <!-- Image in MD samples -->
 <!-- <img src="https://bilder.buecher.de/produkte/12/12615/12615317z.jpg" width="200"/> -->
