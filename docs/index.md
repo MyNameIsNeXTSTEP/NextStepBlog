@@ -2,7 +2,7 @@
 
 <span class='translation_button'>[Read in RUS (translated by ChatGPT)](/index-rus)</span>
 
-Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the blog, enjoy commenting, feel free to provide saggestions, propose ideas for posts and researches.
+Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the blog, enjoy commenting, feel free to provide suggestions, propose ideas for posts and researches.
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
 <ul class="drop-down-menu">
    <li class="drop-down-list">
