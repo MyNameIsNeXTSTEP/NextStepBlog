@@ -1,3 +1,16 @@
+body {
+    font-family: "Cambria","Georgia","Times New Roman",serif;
+}
+
+.md-content {
+    max-width: 800px;
+}
+.md-content__inner {
+    @media (width > 960px) { 
+        margin-left: 4.2rem !important;
+    }
+}
+
 .md-nav--primary,
 .md-nav--secondary {
     font-size: .8rem;
@@ -10,11 +23,15 @@ article .translation_button {
 article > p,
 article > ul > li {
     font-size: 0.9rem;
+    hyphens: auto;
 }
 
 article {
     @media (width > 960px) { 
-        width: 700px !important;
+        width: 600px !important;
+        line-height: 1.727055rem;
+        font-size: normal;
+        font-weight: 1.2793rem;
     }
 }
 

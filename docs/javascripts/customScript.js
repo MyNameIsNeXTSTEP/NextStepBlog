@@ -3,8 +3,9 @@ window.onload = () => {
     $('.md-copyright').remove();
     $('footer').remove();
     $('.md-nav--primary').children('label').remove();
-    // NEWS tab coloring
-    $( "a:contains('NEWS')")[0].style.color = "tomato";
+    // tab coloring
+    // $( "a:contains('NEWS')")[0].style.color = "tomato";
+    $( "label:contains('Thoughts')")[0].style.color = "tomato";
     // SOCIALS
     const $socialsRow = $('<div/>', { class: 'socials' });
     if ($(window).width() > 960) {

@@ -8,6 +8,16 @@
 [What should an interfiew be like](/Business/What should an interview be like) - *10.12.2023 | 5-6 min. reading*
 
 ---
+
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href="/tags#Thoughts">Thoughts</a>
+    </div>
+</div>
+[What is professionalism ?](/Thoughts/What is professionalism) - *11.02.2024 | 5-6 min. reading*
+
+---
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>

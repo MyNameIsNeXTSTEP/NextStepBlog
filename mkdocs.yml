@@ -11,7 +11,7 @@ theme:
       previous: 80 # p
       search: 83 # s
     font:
-      text: Cambria", "Georgia", "Times New Roman", "Serif
+      # text: Cambria", "Georgia", "Times New Roman", serif
       code: Roboto Mono
     palette:
 
