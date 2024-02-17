@@ -3,7 +3,7 @@ hide_from_menu: true
 ---
 
 <h1><strong>Ограничения TypeScript</strong></h1>
-<span class='translation_button'>[Читать на англ.](/Programming/TypeScript limitation)</span>
+<span class='translation_button'>[Читать на англ.](/Programming/TypeScript limitations)</span>
 
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">

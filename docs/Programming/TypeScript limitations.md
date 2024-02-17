@@ -1,6 +1,6 @@
 # **TypeScript limitations**
 
-<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/Programming/TypeScript limitation-rus)</span>
+<span class='translation_button'>[Read in RUS (translated by ChatGPT)](/Programming/TypeScript limitations-rus)</span>
 
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
