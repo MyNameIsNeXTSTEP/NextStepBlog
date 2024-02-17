@@ -5,7 +5,7 @@
         <a href='#Business'>Business</a>
     </div>
 </div>
-[What should an interfiew be like](/Business/What should an interview be like) - *10.12.2023 | 5-6 min. reading*
+[What should an interview be like](/Business/What should an interview be like) - *10.12.2023 | 5-6 min. reading*
 
 ---
 
