@@ -14,7 +14,6 @@
     </div>
 </div>
 *23.09.2023* | *6-7 min. reading*  
-*Further examples are in typescript, compiled and ran with ts-node*
 
 ---
 ## Introduction
