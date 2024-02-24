@@ -31,7 +31,7 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
     />
 </ul>
 
-## **2024:**
+## **2024**
 
 [Typescript limitations](/Programming/TypeScript limitations) - *17.02.2024 | 3-4 min. reading*
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
@@ -48,7 +48,7 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
 </div>
 As i have started studying such thing as overoads some time ago, i had an idea to implement it in some way in typescipt. My goal was to somehow introduce the easy to use overloading code in TS, without too much mannual handling as i saw in examples while preparing, researching the field…
 
-## **2023:**
+## **2023**
 [What should an interview be like ?](/Business/What should an interview be like) - *10.12.2023 | 5-6 min. reading*
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
