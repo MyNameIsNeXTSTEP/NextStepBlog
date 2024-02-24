@@ -42,6 +42,7 @@ window.onload = () => {
     window.addEventListener('scroll', function(e) {
         const sideBarElement = $('.md-sidebar__scrollwrap');
         for (let i = 0; i < 2; i++ ) {
+            if (!sideBarElement) return
             if ( window.scrollY >= 50 && window.innerWidth > 1221 ) {
                 sideBarElement[i].style.display = 'none';       
             } else if ( window.scrollY < 50 ){
