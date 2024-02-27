@@ -5,7 +5,7 @@ window.onload = () => {
     $('.md-nav--primary').children('label').remove();
 
     // tab coloring
-    // $( "a:contains('NEWS')")[0].style.color = "tomato";
+    $( "a:contains('NEWS')")[0].style.color = "tomato";
     // $( "label:contains('Thoughts')")[0].style.color = "tomato";
 
     // SOCIALS
