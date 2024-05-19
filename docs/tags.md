@@ -1,4 +1,15 @@
 # **Tags**
+
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href='#AI'>AI</a>
+    </div>
+</div>
+[Mankind devided - human revolution ?](/Programming/Mankind devided-human revolution) - *19.05.2024 | 2-3 min. reading*
+
+---
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -18,6 +29,7 @@
 [What is professionalism ?](/Thoughts/What is professionalism) - *11.02.2024 | 5-6 min. reading*
 
 ---
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -27,6 +39,7 @@
 [Psychology VS Strong management](/Management/Psychology VS Strong management) - *21.08.2023 | 9-11 min. reading*
 
 ---
+
 <div class="tags">
     <div class='tag'>
         <a href='/tags/#Education'>Education</a>
@@ -35,6 +48,7 @@
 [Knowledges in IT](/Programming/Knowledges in IT/) - *24.08.2023 | 5-6 min. reading*
 
 ---
+
 <div class="tags">
     <div class='tag'>
         <a href='/tags/#Programming'>Programming</a>
@@ -43,6 +57,7 @@
 [Decorators and composition](/Programming/Decorators and composition/) - *23.09.2023 | 5-6 min. reading*
 
 ---
+
 <div class="tags">
     <div class='tag'>
         <a href='/tags/#OOP'>OOP</a>
@@ -51,6 +66,7 @@
 [Decorators and composition](/Programming/Decorators and composition/) - *23.09.2023 | 5-6 min. reading*
 
 ---
+
 <div class="tags">
     <div class='tag'>
         <a href='/tags/#Typescript'>Typescript</a>
@@ -59,6 +75,7 @@
 [Decorators and composition](/Programming/Decorators and composition/) - *23.09.2023 | 5-6 min. reading*
 
 ---
+
 <div class="tags">
     <div class='tag'>
         <a href='/tags/#Books'>Books</a>
@@ -67,6 +84,7 @@
 [Books](/Books/Books)
 
 ---
+
 <div class="tags">
     <div class='tag'>
         <a href='/tags/#Projects'>Projects</a>

@@ -12,6 +12,8 @@ theme:
       search: 83 # s
     font:
       # text: Cambria", "Georgia", "Times New Roman", serif
+      # text: "Roboto Mono", Consolas, Menlo, Courier, monospace <- check
+      # text: 'Inconsolata', monospace <- check
       code: Roboto Mono
     palette:
 
