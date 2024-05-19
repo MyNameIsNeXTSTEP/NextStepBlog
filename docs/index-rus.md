@@ -3,9 +3,11 @@ hide_from_menu: true
 ---
 
 # **Главная**
+
 <span class='translation_button'>[Читать на англ.](/)</span>
 
 Подписывайтесь на мой канал в [Telegram](https://t.me/NextStepOrg), читайте посты на блоге, оставляйте комментарии, предлагайте идеи для постов и исследований.
+
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
 <ul class="drop-down-menu">
    <li class="drop-down-list">
@@ -34,8 +36,48 @@ hide_from_menu: true
     />
 </ul>
 
+## **2024**
+
+[Люди разеделны - революция ?](/Programming/Mankind devided-human revolution-rus) - _19.05.2024 | 2-3 min. reading_
+
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href="/tags#Programming">Programming</a>
+    </div>
+    <div class='tag'>
+        <a href="/tags#AI">AI</a>
+    </div>
+</div>
+Говоря о ChatGPT, как многие знают, недавно OpenAI представила "новую" 4ю версию. По их словам, это самый продвинутый, универсальный, с более крутым голосом, обладающий зрительной и генеративной мощью, и более обученный прежним версиям…
+
+---
+
+[Ограничения TypeScript](/Programming/TypeScript limitations-rus) - _17.02.2024 | 3-4 min. reading_
+
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href="/tags#Programming">Programming</a>
+    </div>
+    <div class='tag'>
+        <a href="/tags#Typescript">Typescript</a>
+    </div>
+    <div class='tag'>
+        <a href="/tags#OOP">OOP</a>
+    </div>
+</div>
+Или как я пытался написать перегрузку методов в TS не без помощи ChatGPT.
+[Ссылка на обмен сообщениями с ChatGPT](https://chat.openai.com/share/7c7c7517-9e9d-4b5e-816c-0f6def3060b)
+
+Когда я начал изучать такую вещь, как перегрузка методов, у меня была идея реализовать это как-то в typescipt. Моя цель была ввести удобную для использования перегрузку, не делая слишком много ручной обработки, как было в примерах при подготовке, изучении области…
+
+---
+
 ## **2023:**
-[Как должно проходить собеседование?](/Business/What should an interview be like) - *10.12.2023 | 5-6 мин. чтения*
+
+[Как должно проходить собеседование?](/Business/What should an interview be like) - _10.12.2023 | 5-6 мин. чтения_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -47,7 +89,8 @@ hide_from_menu: true
 
 ---
 
-[Декораторы и композиция](/Programming/Decorators and composition) - *23.09.2023* | *6-7 мин. чтения*
+[Декораторы и композиция](/Programming/Decorators and composition) - _23.09.2023_ | _6-7 мин. чтения_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -64,7 +107,8 @@ hide_from_menu: true
 
 ---
 
-[Знания в ИТ](/Programming/Knowledges in IT/) - *24.08.2023 | 5-6 мин чтения*
+[Знания в ИТ](/Programming/Knowledges in IT/) - _24.08.2023 | 5-6 мин чтения_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -75,7 +119,8 @@ hide_from_menu: true
 
 ---
 
-[Психология VS Сильное управление](/Management/Psychology VS Strong management) - *21.08.2023 | 9-11 мин. чтения*
+[Психология VS Сильное управление](/Management/Psychology VS Strong management) - _21.08.2023 | 9-11 мин. чтения_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>

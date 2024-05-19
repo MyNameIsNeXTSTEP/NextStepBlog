@@ -3,6 +3,7 @@
 <span class='translation_button'>[Read in RUS (translated by ChatGPT)](/index-rus)</span>
 
 Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the blog, enjoy commenting, feel free to provide suggestions, propose ideas for posts and researches.
+
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
 <ul class="drop-down-menu">
    <li class="drop-down-list">
@@ -33,7 +34,23 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
 
 ## **2024**
 
-[Typescript limitations](/Programming/TypeScript limitations) - *17.02.2024 | 3-4 min. reading*
+[Mankind devided - human revolution ?](/Programming/Mankind devided-human revolution) - _19.05.2024 | 2-3 min. reading_
+
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href="/tags#Programming">Programming</a>
+    </div>
+    <div class='tag'>
+        <a href="/tags#AI">AI</a>
+    </div>
+</div>
+Speaking of ChatGPT, as many people know recently the OpenAI introduced "new" 4o version. Believing to them, most advanced, generic, with cooler voice, image reading/generating power, more taught one…
+
+---
+
+[Typescript limitations](/Programming/TypeScript limitations) - _17.02.2024 | 3-4 min. reading_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -49,7 +66,9 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
 As i have started studying such thing as overoads some time ago, i had an idea to implement it in some way in typescipt. My goal was to somehow introduce the easy to use overloading code in TS, without too much mannual handling as i saw in examples while preparing, researching the field…
 
 ## **2023**
-[What should an interview be like ?](/Business/What should an interview be like) - *10.12.2023 | 5-6 min. reading*
+
+[What should an interview be like ?](/Business/What should an interview be like) - _10.12.2023 | 5-6 min. reading_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -61,7 +80,8 @@ In this chapter i will explain in short how i see and think nowadays companies o
 
 ---
 
-[Decorators and composition](/Programming/Decorators and composition) - *23.09.2023* | *6-7 min. reading*  
+[Decorators and composition](/Programming/Decorators and composition) - _23.09.2023_ | _6-7 min. reading_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -78,7 +98,8 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)  the d
 
 ---
 
-[Knowledges in IT](/Programming/Knowledges in IT/) - *24.08.2023 | 5-6 min. reading*
+[Knowledges in IT](/Programming/Knowledges in IT/) - _24.08.2023 | 5-6 min. reading_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
@@ -90,7 +111,8 @@ This article represents my view on it and suggests how to overcome the situation
 
 ---
 
-[Psychology VS Strong management](/Management/Psychology VS Strong management) - *21.08.2023 | 9-11 min. reading*
+[Psychology VS Strong management](/Management/Psychology VS Strong management) - _21.08.2023 | 9-11 min. reading_
+
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
