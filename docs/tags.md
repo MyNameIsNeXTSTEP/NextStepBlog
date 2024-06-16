@@ -56,6 +56,8 @@
 </div>
 [Decorators and composition](/Programming/Decorators and composition/) - *23.09.2023 | 5-6 min. reading*
 
+[Coupling distance](/Programming/Coupling distance/) - *16.06.2024 | 2-3 min. reading*
+
 ---
 
 <div class="tags">
@@ -65,6 +67,8 @@
 </div>
 [Decorators and composition](/Programming/Decorators and composition/) - *23.09.2023 | 5-6 min. reading*
 
+[Coupling distance](/Programming/Coupling distance/) - *16.06.2024 | 2-3 min. reading*
+
 ---
 
 <div class="tags">
@@ -73,6 +77,8 @@
     </div>
 </div>
 [Decorators and composition](/Programming/Decorators and composition/) - *23.09.2023 | 5-6 min. reading*
+
+[Coupling distance](/Programming/Coupling distance/) - *16.06.2024 | 2-3 min. reading*
 
 ---
 
