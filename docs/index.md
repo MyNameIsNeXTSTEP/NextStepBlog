@@ -7,22 +7,19 @@ Subscribe to my [Telegram](https://t.me/NextStepOrg) channel, read posts on the 
 <link href="/stylesheets/home-page.css" rel="stylesheet" type="text/css"/>
 <ul class="drop-down-menu">
    <li class="drop-down-list">
-    What do i work on now
+    What do i work on now...
         <ul class="drop-down-items ddi-closed">
-            <li>Currently employeed as a support fullstack developer at <a href="https://r1.team" target="_blank">r1.team</a></li>
-            <li>Lead the channel in <a href="https://t.me/NextStepOrg" target="_blank">Telegram</a><br/>
+            <li>Currently employeed as a lead fullstack developer at <a href="https://ggsel.net" target="_blank">GGSel</a></li>
+            <li>Maintain the channel in <a href="https://t.me/NextStepOrg" target="_blank">Telegram</a><br/>
                 Lead and develop own projects on <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a><br/>
-                Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
+                Sometimes ask and answer questions on <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a><br/>
+                Mentoring on the <a href="https://getmentor.dev/mentor/gadzhiev-islam-4281">Getmentor</a>
             </li>
             <li>
-                Sometimes freelancing
+                Try to embody sturtup ideas, contact me if interested.
             </li>
             <li>Do research in software engineering with Moscow Huawei research center lead <a href="https://www.yegor256.com" target="_blank">Yegor Bugayenko.</a><br/>
-                The topic is "Quality of bug reports"
-            </li>
-            <li>
-                Started as the mentor for web-developers in <u>Projects Lab</u> (link's not accessable yet) accelerator for students to practice and get ready to start a career.<br/>
-                To get more info contact me in direct.
+                The topic is "Quality of bug reports" <i>(currectly paused for a while)</i>
             </li>
         </ul>
     </li>
