@@ -13,20 +13,17 @@ hide_from_menu: true
    <li class="drop-down-list">
     Чем я занимаюсь сейчас
         <ul class="drop-down-items ddi-closed">
-            <li>В настоящее время работаю fullstack разработчиком поддержки в <a href="https://r1.team" target="_blank">r1.team</a></li>
+            <li>В настоящее время работаю ведущим fullstack-разработчиком в <a href="https://ggsel.net" target="_blank">GGSel</a></li>
             <li>Веду канал в <a href="https://t.me/NextStepOrg" target="_blank">Telegram</a><br/>
-                Разрабатываю свои проекты на <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a><br/>
-                Иногда задаю и отвечаю на вопросы на <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a>
+                Руковожу и разрабатываю собственные проекты на <a href="https://github.com/MyNameIsNeXTSTEP" target="_blank">GitHub</a><br/>
+                Иногда задаю вопросы и отвечаю на них на <a href="https://stackoverflow.com/users/19100691/gadzhiev-islam" target="_blank">StackOverflow</a><br/>
+                Занимаюсь менторством на <a href="https://getmentor.dev/mentor/gadzhiev-islam-4281">Getmentor</a>
             </li>
             <li>
-                Иногда занимаюсь фрилансом
+                Пытаюсь воплотить идеи стартапов, свяжитесь со мной, если заинтересованы.
             </li>
-            <li>Работаю над исследованием (пока приостановлено) в области программной инженерии вместе с руководителем Московского исследовательского центра Huawei <a href="https://www.yegor256.com" target="_blank">Егором Бугаенко.</a><br/>
-                Тема исследования - "Качество отчетов об ошибках"
-            </li>
-            <li>
-                Начал работать ментором для веб-разработчиков в акселераторе <u>Проектной Лаборатории</u> (ссылка пока недоступна) для подготовки студентов и начала карьеры.<br/>
-                Для получения дополнительной информации свяжитесь со мной напрямую.
+            <li>Провожу исследования в области программной инженерии с руководителем Московского исследовательского центра Huawei <a href="https://www.yegor256.com" target="_blank">Егором Бугаенко.</a><br/>
+                Тема: "Качество отчетов об ошибках" <i>(в настоящее время приостановлено на некоторое время)</i>
             </li>
         </ul>
     </li>
