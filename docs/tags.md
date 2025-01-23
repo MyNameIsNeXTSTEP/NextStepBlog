@@ -3,6 +3,26 @@
 <link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
 <div class="tags">
     <div class='tag'>
+        <a href='#Git'>Git</a>
+    </div>
+</div>
+[Contributing](/Programming/Contributing) - *23.01.2025 | 1-2 min. reading*
+
+---
+
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
+        <a href='#Open-source'>Open-source</a>
+    </div>
+</div>
+[Contributing](/Programming/Contributing) - *23.01.2025 | 1-2 min. reading*
+
+---
+
+<link href="/stylesheets/tags.css" rel="stylesheet" type="text/css"/>
+<div class="tags">
+    <div class='tag'>
         <a href='#AI'>AI</a>
     </div>
 </div>
