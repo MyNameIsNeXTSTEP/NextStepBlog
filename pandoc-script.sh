@@ -1,0 +1,1 @@
+pandoc -s -f markdown -t html5 docs/Books/Books.md -o output.html --css stylesheets/extra.css
