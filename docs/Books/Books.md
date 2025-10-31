@@ -1,3 +1,12 @@
+---
+title: My Document Title
+author: John Doe
+date: October 31, 2025
+description: This is a description of my document for SEO purposes.
+keywords: pandoc, markdown, html, metadata
+lang: en-US
+---
+
 # **Books**
 
 <span class='translation_button'>[Read in RUS (translated by ChatGPT)](/Books/Books-rus)</span>
